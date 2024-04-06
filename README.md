@@ -32,7 +32,7 @@ To get started with the Employee API, follow these steps:
 2. Navigate to the Project Directory: cd employee-api
 3. Build the Project: mvn clean install
 4. Run the Application: mvn spring-boot:run
-5. Access the API Documentation: Open your web browser and go to http://localhost:8080/swagger-ui.html to view and interact with the API endpoints.
+5. Access the API Documentation: Open your web browser and go to http://localhost:8080/swagger-ui/index.html to view and interact with the API endpoints.
 
 ## API Endpoints
 
